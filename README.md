@@ -1,4 +1,4 @@
-## Hi,I'm Eega Sathish Reddy 👋
+# Hi,I'm Eega Sathish Reddy 👋
 
 ## 🎓 MCA Graduate with a strong foundation in Computer Science, Data Analytics.
 ## 📊 Aspiring Data Analyst & Data Science Enthusiast passionate about transforming raw data into actionable insights.
