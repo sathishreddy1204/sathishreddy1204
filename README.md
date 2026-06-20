@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**sathishreddy1204/sathishreddy1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi,I'm Eega Sathish Reddy 👋
 
 🎓 MCA Graduate with a strong foundation in Computer Science, Data Analytics.
 📊 Aspiring Data Analyst & Data Science Enthusiast passionate about transforming raw data into actionable insights.
@@ -19,4 +14,3 @@ Here are some ideas to get you started:
     Data Cleaning, Data Visualization, and Exploratory Data Analysis (EDA)
 📫 Email: sathishbunny1590@gmail.com
  
--->
