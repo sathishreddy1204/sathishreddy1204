@@ -17,6 +17,6 @@ Here are some ideas to get you started:
     Microsoft Excel (Pivot Tables, Power Query, Dashboards, Advanced Formulas)
     Power BI (Data Modeling, DAX, Interactive Dashboards)
     Data Cleaning, Data Visualization, and Exploratory Data Analysis (EDA)
-📫 How to reach me: sathishbunny1204@gmail.com
+📫 Email: sathishbunny1590@gmail.com
  
 -->
